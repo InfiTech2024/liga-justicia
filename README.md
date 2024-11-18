@@ -2,9 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-### Historias de H+eroes...
-Sus verdaderas Historias de vida 
+## Estos son los cambios nuevos
